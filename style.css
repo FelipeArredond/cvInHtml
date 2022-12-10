@@ -1,0 +1,69 @@
+body {
+    font-family: 'Martian Mono', monospace;
+    background-color: #23192d;
+}
+
+header {
+    text-align: center;
+    border-bottom: solid 1px #f5ecb7;
+}
+
+h1 {
+    color: #fd0a54;
+}
+
+h2 {
+    color: #fd0a54
+}
+
+h3 {
+    color: #f5ecb7;
+}
+
+li {
+    color: #f5ecb7;
+}
+
+main {
+    display: flex;
+    gap: 10px;
+}
+
+main section {
+    padding: 10px;
+    border-radius: 10px;
+    width: 30%;
+    margin: 20px 100px;
+}
+
+.skill_bar_js {
+    border: solid 1px #f5ecb7;
+    margin: 15px 0 15px 0;
+    width: 100%;
+    height: 15px;
+    border-radius: 5px;
+}
+
+.skill_bar_css {
+    border: solid 1px #f5ecb7;
+    margin: 15px 0 15px 0;
+    width: 100%;
+    height: 15px;
+    border-radius: 5px;
+}
+
+.skill_bar_html {
+    border: solid 1px #f5ecb7;
+    margin: 15px 0 15px 0;
+    width: 100%;
+    height: 15px;
+    border-radius: 5px;
+}
+
+.skill_bar_react {
+    border-radius: 5px;
+    border: solid 1px #f5ecb7;
+    margin: 15px 0 15px 0;
+    width: 100%;
+    height: 15px;
+}
